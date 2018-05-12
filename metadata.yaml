@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31340'
     url: http://www.gutenberg.org/2009/agents/31340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34714#Nuoren-Robertin-matka-Gr-nlantiin-is--ns--hakemaan
 gutenberg_issued: '2010-12-21'
 gutenberg_type: Text
 identifiers:
