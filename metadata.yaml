@@ -1,0 +1,32 @@
+_repo: Nuoren-Robertin-matka-Gr-nlantiin-is--ns--hakemaan_34714
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sainio, Antti
+    gutenberg_agent_id: '37186'
+    url: http://www.gutenberg.org/2009/agents/37186
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffmann, Franz
+    birthdate: 1814
+    deathdate: 1882
+    gutenberg_agent_id: '31340'
+    url: http://www.gutenberg.org/2009/agents/31340
+description: ''
+gutenberg_issued: '2010-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34714'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcc 'PZ'
+title: Nuoren Robertin matka Grönlantiin isäänsä hakemaan
+url: http://www.gutenberg.org/ebooks/34714
